@@ -1,21 +1,21 @@
 # Projektna naloga pri uvodu v programiranje
 
-FUNKCIJE MOJEGA PROGRAMA "RAÈUNOVODSKI PROGRAM"
--izraèun dnevnega prometa
--izraèun dobièka
--sprotno seštevanje plaè študentov (stimulacija in ure)
--razvrstitev v lestvico glede na promete, odvisno od števila ur in napak pri izdajanju raèunov
--izraèun preostale robe, glede na podatke o prodanih kolièinah in nabavi
--izraèunavanje mejnega prihodka dela / stojnic *
--izraèun stroškov po delih (plaèe, davki, najemnine,...) in variabilnih stroškov
--izraèun napak pri izdajanju raèunov, za vsakega študenta posebej
--seštevanje popustov v evrih, dnevno
+FUNKCIJE MOJEGA PROGRAMA "RAÄŒUNOVODSKI PROGRAM"
+- izraÄun dnevnega prometa
+- izraÄun dobiÄka
+- sprotno seÅ¡tevanje plaÄ Å¡tudentov (stimulacija in ure)
+- razvrstitev v lestvico glede na promete, odvisno od Å¡tevila ur in napak pri izdajanju raÄunov
+- izraÄun preostale robe, glede na podatke o prodanih koliÄinah in nabavi
+- izraÄunavanje mejnega prihodka dela / stojnic *
+- izraÄun stroÅ¡kov po delih (plaÄe, davki, najemnine,...) in variabilnih stroÅ¡kov
+- izraÄun napak pri izdajanju raÄunov, za vsakega Å¡tudenta posebej
+- seÅ¡tevanje popustov v evrih, dnevno
 
-program bo vse funkcije izraèunaval dnevno, na koncu pa tudi meseèno. 
-* ta funkcija bo raèunana le meseèno
+program bo vse funkcije izraÄunaval dnevno, na koncu pa tudi meseÄno. 
+* ta funkcija bo raÄunana le meseÄno
 
 dodatki:
--raèunanje preostalega prostega èasa dnevno, glede na število ur spanca prejšnji dan in glede na delo prejšnji dan
+- raÄunanje preostalega prostega Äasa dnevno, glede na Å¡tevilo ur spanca prejÅ¡nji dan in glede na delo prejÅ¡nji dan
 
 
 
